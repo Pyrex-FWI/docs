@@ -15,7 +15,7 @@ Pré-requis
 - CakePHP 3.x a besoin de l'extension intl.
 
 .. warning::
-
+l
     CakePHP 3.0 ne fonctionnera pas si vous n'avez pas les pré-requis ci-dessus.
 
 Outil d'Upgrade
@@ -80,7 +80,7 @@ supplémentaires en utilisant l'autoloader de votre application. Regardez la
 section sur :ref:`additional-class-paths` pour plus d'informations.
 
 Trois nouvelles variables de configuration fournissent la configuration
-de chemin pour les plugins, les views et les fichiers locale. Vous pouvez
+de chemin pour les plugins, les views et les fichiers locaux. Vous pouvez
 ajouter plusieurs chemins à ``App.paths.templates``, ``App.paths.plugins`` et
 ``App.paths.locales`` pour configurer des chemins multiples pour respectivement
 les templates, les plugins et les fichiers locales.
